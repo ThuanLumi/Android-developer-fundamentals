@@ -1,0 +1,196 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml:18:1-47:12
+INJECTED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml:18:1-47:12
+INJECTED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml:18:1-47:12
+INJECTED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml:18:1-47:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\ccf28aed2c0621168f0f68bff794ba8b\design-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:preference-v7:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\c71de7587cfe861f3e274ae1cf517676\preference-v7-26.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\70b27d2bdcb6ae4c375781cd11c03398\appcompat-v7-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\7d18c271ee80040ad6373a0098dd4d45\constraint-layout-1.0.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\a171131c222c288d5d5402b6c5cacfe5\transition-26.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\1e4f0c93723a7475aef8586ffdf1043e\support-v4-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\0e278059674cc0bc97597188073e03e1\animated-vector-drawable-26.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\0dca4a70e28f15f589d4bedafe09e5bc\support-vector-drawable-26.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\18f33aaf5081481995992284ef4d0e65\recyclerview-v7-26.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\19ced88bcc0f47e69e25974859587f53\support-media-compat-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\4b50325bddea946025889bf0fb4dabf3\support-fragment-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\6f1d05d3e8a10ad9aef5841001717fde\support-core-utils-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\0c9586e3cf0a44a97e0abc1e7b5fd4bd\support-core-ui-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\6b9b7dfdbd879b300770c5bb51739e4b\support-compat-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\d79ed6f6f946bcc3a13bb7af88167d88\runtime-1.0.0\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml:18:1-47:12
+INJECTED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml:18:1-47:12
+INJECTED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml:18:1-47:12
+	package
+		ADDED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml:19:5-50
+		INJECTED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml:18:1-47:12
+		INJECTED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml:18:1-47:12
+		INJECTED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml:18:11-69
+application
+ADDED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml:21:5-45:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\ccf28aed2c0621168f0f68bff794ba8b\design-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\ccf28aed2c0621168f0f68bff794ba8b\design-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:preference-v7:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\c71de7587cfe861f3e274ae1cf517676\preference-v7-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:preference-v7:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\c71de7587cfe861f3e274ae1cf517676\preference-v7-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\70b27d2bdcb6ae4c375781cd11c03398\appcompat-v7-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\70b27d2bdcb6ae4c375781cd11c03398\appcompat-v7-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\7d18c271ee80040ad6373a0098dd4d45\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\7d18c271ee80040ad6373a0098dd4d45\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:transition:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\a171131c222c288d5d5402b6c5cacfe5\transition-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\a171131c222c288d5d5402b6c5cacfe5\transition-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\1e4f0c93723a7475aef8586ffdf1043e\support-v4-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\1e4f0c93723a7475aef8586ffdf1043e\support-v4-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\0e278059674cc0bc97597188073e03e1\animated-vector-drawable-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\0e278059674cc0bc97597188073e03e1\animated-vector-drawable-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\0dca4a70e28f15f589d4bedafe09e5bc\support-vector-drawable-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\0dca4a70e28f15f589d4bedafe09e5bc\support-vector-drawable-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\18f33aaf5081481995992284ef4d0e65\recyclerview-v7-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\18f33aaf5081481995992284ef4d0e65\recyclerview-v7-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\19ced88bcc0f47e69e25974859587f53\support-media-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\19ced88bcc0f47e69e25974859587f53\support-media-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\4b50325bddea946025889bf0fb4dabf3\support-fragment-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\4b50325bddea946025889bf0fb4dabf3\support-fragment-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\6f1d05d3e8a10ad9aef5841001717fde\support-core-utils-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\6f1d05d3e8a10ad9aef5841001717fde\support-core-utils-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\0c9586e3cf0a44a97e0abc1e7b5fd4bd\support-core-ui-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\0c9586e3cf0a44a97e0abc1e7b5fd4bd\support-core-ui-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\6b9b7dfdbd879b300770c5bb51739e4b\support-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\6b9b7dfdbd879b300770c5bb51739e4b\support-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\d79ed6f6f946bcc3a13bb7af88167d88\runtime-1.0.0\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\d79ed6f6f946bcc3a13bb7af88167d88\runtime-1.0.0\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml:25:9-54
+	android:icon
+		ADDED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml:27:9-40
+activity#com.example.android.appwithsettings.SettingsActivity
+ADDED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml:28:9-34:20
+	android:parentActivityName
+		ADDED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml:30:13-55
+	android:label
+		ADDED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml:28:19-51
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml:31:13-33:48
+	android:value
+		ADDED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml:33:17-46
+	android:name
+		ADDED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml:32:17-63
+activity#com.example.android.appwithsettings.MainActivity
+ADDED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml:35:9-44:20
+	android:label
+		ADDED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml:37:13-45
+	android:theme
+		ADDED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml:36:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml:39:13-43:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml:42:27-74
+uses-sdk
+INJECTED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\ccf28aed2c0621168f0f68bff794ba8b\design-26.1.0\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\ccf28aed2c0621168f0f68bff794ba8b\design-26.1.0\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:preference-v7:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\c71de7587cfe861f3e274ae1cf517676\preference-v7-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\c71de7587cfe861f3e274ae1cf517676\preference-v7-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\70b27d2bdcb6ae4c375781cd11c03398\appcompat-v7-26.1.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\70b27d2bdcb6ae4c375781cd11c03398\appcompat-v7-26.1.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\7d18c271ee80040ad6373a0098dd4d45\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\7d18c271ee80040ad6373a0098dd4d45\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:transition:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\a171131c222c288d5d5402b6c5cacfe5\transition-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\a171131c222c288d5d5402b6c5cacfe5\transition-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\1e4f0c93723a7475aef8586ffdf1043e\support-v4-26.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\1e4f0c93723a7475aef8586ffdf1043e\support-v4-26.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\0e278059674cc0bc97597188073e03e1\animated-vector-drawable-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\0e278059674cc0bc97597188073e03e1\animated-vector-drawable-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\0dca4a70e28f15f589d4bedafe09e5bc\support-vector-drawable-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\0dca4a70e28f15f589d4bedafe09e5bc\support-vector-drawable-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\18f33aaf5081481995992284ef4d0e65\recyclerview-v7-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\18f33aaf5081481995992284ef4d0e65\recyclerview-v7-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\19ced88bcc0f47e69e25974859587f53\support-media-compat-26.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\19ced88bcc0f47e69e25974859587f53\support-media-compat-26.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\4b50325bddea946025889bf0fb4dabf3\support-fragment-26.1.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\4b50325bddea946025889bf0fb4dabf3\support-fragment-26.1.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\6f1d05d3e8a10ad9aef5841001717fde\support-core-utils-26.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\6f1d05d3e8a10ad9aef5841001717fde\support-core-utils-26.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\0c9586e3cf0a44a97e0abc1e7b5fd4bd\support-core-ui-26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\0c9586e3cf0a44a97e0abc1e7b5fd4bd\support-core-ui-26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\6b9b7dfdbd879b300770c5bb51739e4b\support-compat-26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\6b9b7dfdbd879b300770c5bb51739e4b\support-compat-26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\d79ed6f6f946bcc3a13bb7af88167d88\runtime-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\d79ed6f6f946bcc3a13bb7af88167d88\runtime-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\ccf28aed2c0621168f0f68bff794ba8b\design-26.1.0\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\IOTLINK\AndroidStudioProjects\Lesson92\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\ccf28aed2c0621168f0f68bff794ba8b\design-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:preference-v7:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\c71de7587cfe861f3e274ae1cf517676\preference-v7-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:preference-v7:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\c71de7587cfe861f3e274ae1cf517676\preference-v7-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\70b27d2bdcb6ae4c375781cd11c03398\appcompat-v7-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\70b27d2bdcb6ae4c375781cd11c03398\appcompat-v7-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\a171131c222c288d5d5402b6c5cacfe5\transition-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\a171131c222c288d5d5402b6c5cacfe5\transition-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\1e4f0c93723a7475aef8586ffdf1043e\support-v4-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\1e4f0c93723a7475aef8586ffdf1043e\support-v4-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\0e278059674cc0bc97597188073e03e1\animated-vector-drawable-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\0e278059674cc0bc97597188073e03e1\animated-vector-drawable-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\0dca4a70e28f15f589d4bedafe09e5bc\support-vector-drawable-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\0dca4a70e28f15f589d4bedafe09e5bc\support-vector-drawable-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\18f33aaf5081481995992284ef4d0e65\recyclerview-v7-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\18f33aaf5081481995992284ef4d0e65\recyclerview-v7-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\19ced88bcc0f47e69e25974859587f53\support-media-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\19ced88bcc0f47e69e25974859587f53\support-media-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\4b50325bddea946025889bf0fb4dabf3\support-fragment-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\4b50325bddea946025889bf0fb4dabf3\support-fragment-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\6f1d05d3e8a10ad9aef5841001717fde\support-core-utils-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\6f1d05d3e8a10ad9aef5841001717fde\support-core-utils-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\0c9586e3cf0a44a97e0abc1e7b5fd4bd\support-core-ui-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\0c9586e3cf0a44a97e0abc1e7b5fd4bd\support-core-ui-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\6b9b7dfdbd879b300770c5bb51739e4b\support-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\6b9b7dfdbd879b300770c5bb51739e4b\support-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\ccf28aed2c0621168f0f68bff794ba8b\design-26.1.0\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\ccf28aed2c0621168f0f68bff794ba8b\design-26.1.0\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\d79ed6f6f946bcc3a13bb7af88167d88\runtime-1.0.0\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\d79ed6f6f946bcc3a13bb7af88167d88\runtime-1.0.0\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\IOTLINK\.gradle\caches\transforms-2\files-2.1\d79ed6f6f946bcc3a13bb7af88167d88\runtime-1.0.0\AndroidManifest.xml:26:13-58
